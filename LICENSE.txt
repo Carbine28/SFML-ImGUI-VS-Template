@@ -1,0 +1,4 @@
+SFML License: 	zlib/png 
+ImGUI:		MIT
+ImGui-SFML:	MIT
+Roboto-Regular: Apache 2.0
